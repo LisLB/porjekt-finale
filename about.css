@@ -1,0 +1,8 @@
+.location{
+    color: red;
+}
+.image_location{
+    display: flex;
+    justify-content: center;
+    width: 25px;
+}
